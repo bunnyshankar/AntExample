@@ -1,0 +1,12 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#Maven created files list
+*.lst
+
+#target directory
+target/*
